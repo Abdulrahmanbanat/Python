@@ -59,9 +59,10 @@ This repository contains all Python exercises and lessons covered during the **S
 
 ## 📂 Direct Access to Chapters
 
-- [Chapter 01 & 02 – Basics](./Chapter_01_02_Basics)
-- [Chapter 03 – Strings & Conditionals](./Chapter_03_Strings_Conditionals)
-- [Chapter 04 – Data Structures](./Chapter_04_Data_Structures)
-- [Chapter 05 – Loops & Functions](./Chapter_05_Loops_Functions)
+- [Chapter 01 & 02 – Basics](https://github.com/Abdulrahmanbanat/Python/tree/main/Python%20Basics)
+- [Chapter 03 – Strings & Conditionals](https://github.com/Abdulrahmanbanat/Python/tree/main/String)
+- [Chapter 04 – Data Structures](https://github.com/Abdulrahmanbanat/Python/tree/main/Data%20Structure)
+- [Chapter 05 – Loops & Functions](https://github.com/Abdulrahmanbanat/Python/tree/main/Loops%20%26%20Functions)
+
 
 
