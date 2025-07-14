@@ -6,7 +6,7 @@ This chapter explores Python's built-in data structures and their common operati
 
 - **Lists**  
   - CRUD Operations (Create, Read, Update, Delete)
-  - Built-in Functions: `append()`, `insert()`, `extend()`, `remove()`, `pop()`, `sort()`, `reverse()`, `in`, `index()`, `max()`, `min()`, `sum()`
+  - Built-in Functions: `append()`, `insert()`, `extend()`, `remove()`, `pop()`, `sort()`, `reverse()`, `index()`, `max()`, `min()`, `sum()`
   - Nested Lists
 
 - **Tuples**  
@@ -15,11 +15,11 @@ This chapter explores Python's built-in data structures and their common operati
 
 - **Sets**  
   - Unordered collections with no duplicates
-  - Built-in Functions: `add()`, `update()`, `pop()`, `remove()`, `discard()`, `union()`, `intersection()`, `difference()`, `symmetric_difference()`, `in`
+  - Built-in Functions: `add()`, `update()`, `pop()`, `remove()`, `discard()`, `union()`, `intersection()`, `difference()`, `symmetric_difference()`
 
 - **Dictionaries**  
   - Key-value storage
-  - Built-in Functions: `pop()`, `popitem()`, `keys()`, `values()`, `update()`, `in`
+  - Built-in Functions: `pop()`, `popitem()`, `keys()`, `values()`, `update()`
 
 ---
 
@@ -77,7 +77,7 @@ Practice advanced usage of Python data structures and functions:
   - Reverse a tuple  
 - **Dictionaries**:  
   - Extract keys and values into lists  
-  - Safely retrieve a value using `.get()`  
+  - Safely retrieve a value  
 - **Functions and Control Flow**:  
   - Use `if`/`else` and loops  
   - Implement functions (e.g., sum of inputs, factorial, etc.)
