@@ -53,6 +53,15 @@ This repository contains all Python exercises and lessons covered during the **S
   - Check list 
   - Print formatted full names  
   - Classify numbers as even or odd  
-  - Use loops for counting and iteration  
+  - Use loops for counting and iteration
+  
+---
+
+## 📂 Direct Access to Chapters
+
+- [Chapter 01 & 02 – Basics](./Chapter_01_02_Basics)
+- [Chapter 03 – Strings & Conditionals](./Chapter_03_Strings_Conditionals)
+- [Chapter 04 – Data Structures](./Chapter_04_Data_Structures)
+- [Chapter 05 – Loops & Functions](./Chapter_05_Loops_Functions)
 
 
