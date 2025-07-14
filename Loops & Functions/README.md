@@ -27,7 +27,7 @@ This chapter covers fundamental Python programming concepts focused on loops and
 
 🧠 **Key Concepts and Tasks**
 
-✅ **Task 1 – Check List Membership**  
+✅ **Task 1 – Check List**  
 Given two lists, print each element from the first list if it is in the second; otherwise, print a message.
 
 ✅ **Task 2 – Pair Elements with `zip()`**  
