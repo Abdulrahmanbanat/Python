@@ -1,4 +1,4 @@
-Chapter 03 – Strings, Formatting, and Conditionals
+# Chapter 03 – Strings, Formatting, and Conditionals
 
 This chapter covers key Python fundamentals including:
 
