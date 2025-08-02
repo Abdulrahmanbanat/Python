@@ -1,6 +1,6 @@
-# Python Course – Shai for Data Science 
+# Python Course
 
-This repository contains all Python exercises and lessons covered during the **Shai for Data Science** course. Each chapter focuses on a key set of Python fundamentals, starting from basic syntax to more advanced data structures and functions.
+This repository contains all Python exercises and lessons covered during the course. Each chapter focuses on a key set of Python fundamentals, starting from basic syntax to more advanced data structures and functions.
 
 ---
 
