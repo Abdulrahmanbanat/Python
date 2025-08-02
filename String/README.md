@@ -13,7 +13,7 @@ This chapter covers key Python fundamentals including:
 
 ---
 
-### 📘 Tasks Included
+###  Tasks Included
 
 - **Task 1:** User input and f-string output – *"{name} likes {favorite_food}"*
 - **Task 2:** Use `help()` and explain the `append()` method
