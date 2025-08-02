@@ -76,6 +76,19 @@ This repository contains all Python exercises and lessons covered during the **S
   - Design encapsulated systems
 
 ---
+### Chapter 07 – OS Operations & File Handling
+- **Python Packages**:
+  - Math package: `sqrt()`, `factorial()`, `cos()`
+  - OS package: directory navigation, file management
+- **File I/O**:
+  - Reading modes: `read()`, `readline()`, `readlines()`
+  - Writing modes: `write()`, `print()` to file
+  - Context managers (`with` statement)
+- **Modules System**:
+  - Creating custom modules
+  - Importing: `import`, `import as`, `from ... import`
+
+---
 ##  Direct Access to Chapters
 
 - [Chapter 01 & 02 – Basics](https://github.com/Abdulrahmanbanat/Python/tree/main/Python%20Basics)
@@ -83,4 +96,4 @@ This repository contains all Python exercises and lessons covered during the **S
 - [Chapter 04 – Data Structures](https://github.com/Abdulrahmanbanat/Python/tree/main/Data%20Structure)
 - [Chapter 05 – Loops & Functions](https://github.com/Abdulrahmanbanat/Python/tree/main/Loops%20%26%20Functions)
 - [Chapter 06 – Object-Oriented Programming](https://github.com/Abdulrahmanbanat/Python/tree/main/OOP)
-
+- [Chapter 07 – OS & File Handling](https://github.com/Abdulrahmanbanat/Python/tree/main/OS)
