@@ -2,7 +2,7 @@
 
 This chapter explores Python's built-in data structures and their common operations, including:
 
-## 🔢 Topics Covered
+## Topics Covered
 
 - **Lists**  
   - CRUD Operations (Create, Read, Update, Delete)
@@ -23,32 +23,32 @@ This chapter explores Python's built-in data structures and their common operati
 
 ---
 
-## 🧠 Key Concepts and Tasks
+## Key Concepts and Tasks
 
-### ✅ Task 1 – List Basics
+### Task 1 – List Basics
 Define a list of 6 items and:
 - Print the number of items  
 - Print second and second-last elements  
 - Slice from the second to third elements  
 
-### ✅ Task 2 – List Methods
+### Task 2 – List Methods
 Use `append()` and `insert()` to modify the list `[1, 2, 3]` into `[1, 5, 2, 3, 4]`  
 
-### ✅ Task 3 – Nested Lists
+### Task 3 – Nested Lists
 Work with nested lists:
 - Access number `5`  
 - Append `10` to the last list  
 
-### ✅ Task 4 – Tuple Task
+### Task 4 – Tuple Task
 Create a tuple and print its last element  
 
-### ✅ Task 5 – Set Task
+### Task 5 – Set Task
 Create an empty set and add elements `1, 2, 3`, then print  
 
-### ✅ Task 6 – Check Element in Set
+### Task 6 – Check Element in Set
 Check membership of elements in a set `{1, 2, 3, 4}`  
 
-### ✅ Task 7 – Set Operations
+### Task 7 – Set Operations
 Create sets `A` and `B`, apply:
 - Union  
 - Intersection  
@@ -56,13 +56,13 @@ Create sets `A` and `B`, apply:
 - Assign union to `B`  
 - Delete all sets  
 
-### ✅ Task 8 – Dictionary Task
+### Task 8 – Dictionary Task
 - Create dictionary `student`  
 - Update age  
 - Add `phone_number`  
 - Delete `course`  
 
-### ✅ Task 9 – File 6: Practice on Data Structures & Functions
+### Task 9 – File 6: Practice on Data Structures & Functions
 Practice advanced usage of Python data structures and functions:
 - **Strings**:  
   - Count vowels  
@@ -85,4 +85,4 @@ Practice advanced usage of Python data structures and functions:
 
 ---
 
-> ✨ All code examples follow clean syntax, are well-commented, and adhere to the PEP 8 style guide.
+> All code examples follow clean syntax, are well-commented, and adhere to the PEP 8 style guide.
