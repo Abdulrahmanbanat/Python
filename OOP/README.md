@@ -46,7 +46,3 @@
 - Encapsulated speed attribute
 - Public `accelerate()` method
 - Getter method for controlled access
-
-## Resources
-- [OOP Concepts Notebook](OOP.ipynb)
-- [Practice Exercises with Solutions](Ex_OOP+sol.ipynb)
