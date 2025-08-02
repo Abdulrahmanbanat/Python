@@ -96,4 +96,4 @@ This repository contains all Python exercises and lessons covered during the **S
 - [Chapter 04 – Data Structures](https://github.com/Abdulrahmanbanat/Python/tree/main/Data%20Structure)
 - [Chapter 05 – Loops & Functions](https://github.com/Abdulrahmanbanat/Python/tree/main/Loops%20%26%20Functions)
 - [Chapter 06 – Object-Oriented Programming](https://github.com/Abdulrahmanbanat/Python/tree/main/OOP)
-- [Chapter 07 – OS & File Handling](https://github.com/Abdulrahmanbanat/Python/tree/main/OS)
+- [Chapter 07 – OS & File Handling](https://github.com/Abdulrahmanbanat/Python/tree/main/Python%20Packages%20and%20File%20Handling)
