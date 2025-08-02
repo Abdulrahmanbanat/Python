@@ -4,9 +4,9 @@ This repository contains all Python exercises and lessons covered during the **S
 
 ---
 
-## 📚 Chapters Overview
+## Chapters Overview
 
-### ✅ Chapter 01 & 02 – Python Basics
+###  Chapter 01 & 02 – Python Basics
 - Printing to the console  
 - Variables and constants  
 - Taking user input  
@@ -15,7 +15,7 @@ This repository contains all Python exercises and lessons covered during the **S
 
 ---
 
-### 🔤 Chapter 03 – Strings, Formatting, and Conditionals
+###  Chapter 03 – Strings, Formatting, and Conditionals
 - String formatting: `f-strings`, `.format()`  
 - String operations: concatenation, indexing, slicing, repetition, escape characters  
 - Built-in functions: `help()`, `dir()`  
@@ -26,7 +26,7 @@ This repository contains all Python exercises and lessons covered during the **S
 
 ---
 
-### 🧱 Chapter 04 – Data Structures
+### Chapter 04 – Data Structures
 - **Lists**: CRUD operations, methods like `append()`, `pop()`, slicing, nested lists  
 - **Tuples**: Immutable sequences, element access  
 - **Sets**: Unique elements, set operations (union, intersection, difference)  
@@ -38,7 +38,7 @@ This repository contains all Python exercises and lessons covered during the **S
 
 ---
 
-### 🔁 Chapter 05 – Loops & Functions
+###  Chapter 05 – Loops & Functions
 - **For loops**: basic and nested iteration, `zip()` function  
 - **While loops**: counters, loop control  
 - **Break** and **Continue** statements  
@@ -57,7 +57,7 @@ This repository contains all Python exercises and lessons covered during the **S
   
 ---
 
-## 📂 Direct Access to Chapters
+##  Direct Access to Chapters
 
 - [Chapter 01 & 02 – Basics](https://github.com/Abdulrahmanbanat/Python/tree/main/Python%20Basics)
 - [Chapter 03 – Strings & Conditionals](https://github.com/Abdulrahmanbanat/Python/tree/main/String)
