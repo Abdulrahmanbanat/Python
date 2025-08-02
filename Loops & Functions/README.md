@@ -2,7 +2,7 @@
 
 This chapter covers fundamental Python programming concepts focused on loops and functions, including:
 
-🔢 **Topics Covered**
+**Topics Covered**
 
 - **For Loop**
   - Basic iteration over sequences
@@ -25,27 +25,27 @@ This chapter covers fundamental Python programming concepts focused on loops and
   - Lambda (anonymous) functions
   - Nested functions
 
-🧠 **Key Concepts and Tasks**
+**Key Concepts and Tasks**
 
-✅ **Task 1 – Check List**  
+**Task 1 – Check List**  
 Given two lists, print each element from the first list if it is in the second; otherwise, print a message.
 
-✅ **Task 2 – Pair Elements with `zip()`**  
+**Task 2 – Pair Elements with `zip()`**  
 Combine two lists (characters and numbers) and print paired elements.
 
-✅ **Task 3 – While Loop Counting**  
+**Task 3 – While Loop Counting**  
 Print numbers from 0 to 10 using a while loop.
 
-✅ **Task 4 – Print Your Name**  
+**Task 4 – Print Your Name**  
 Write a function that prints your name (no parameters).
 
-✅ **Task 5 – Full Name Function**  
+**Task 5 – Full Name Function**  
 Create a function with two parameters (first_name, last_name) and print a formatted full name.
 
-✅ **Task 6 – Default Parameters**  
+**Task 6 – Default Parameters**  
 Write a function that adds two numbers where the second has a default value.
 
-✅ **Task 7 – Even or Odd**  
+**Task 7 – Even or Odd**  
 Create a function that takes a list of numbers and prints whether each is even or odd.
 
 ---
