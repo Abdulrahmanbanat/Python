@@ -56,13 +56,31 @@ This repository contains all Python exercises and lessons covered during the **S
   - Use loops for counting and iteration
   
 ---
+### Chapter 06 – Object-Oriented Programming (OOP)
+- **Core Concepts**:
+  - Classes & objects (attributes/methods)
+  - Constructors (`__init__`)
+  - Inheritance (parent/child classes)
+  - Polymorphism (method overriding)
+  - Encapsulation (public/protected/private)
+  - Abstraction (simplified interfaces)
+- **Practical Implementation**:
+  - Shape hierarchy (Rectangle/Circle)
+  - Bank account system with validation
+  - Animal sounds with polymorphism
+  - Car controller with encapsulated speed
+- **Key Exercises**:
+  - Override area calculation methods
+  - Create classes with private attributes
+  - Implement polymorphic behaviors
+  - Design encapsulated systems
 
+---
 ##  Direct Access to Chapters
 
 - [Chapter 01 & 02 – Basics](https://github.com/Abdulrahmanbanat/Python/tree/main/Python%20Basics)
 - [Chapter 03 – Strings & Conditionals](https://github.com/Abdulrahmanbanat/Python/tree/main/String)
 - [Chapter 04 – Data Structures](https://github.com/Abdulrahmanbanat/Python/tree/main/Data%20Structure)
 - [Chapter 05 – Loops & Functions](https://github.com/Abdulrahmanbanat/Python/tree/main/Loops%20%26%20Functions)
-
-
+- [Chapter 06 – Object-Oriented Programming](https://github.com/Abdulrahmanbanat/Python/tree/main/OOP)
 
