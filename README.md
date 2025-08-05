@@ -89,6 +89,23 @@ This repository contains all Python exercises and lessons covered during the cou
   - Importing: `import`, `import as`, `from ... import`
 
 ---
+### Chapter 08 – NumPy Basics
+- Introduction to NumPy and its importance for numerical computing  
+- Creating arrays using `np.array()`  
+- Array attributes: `shape`, `ndim`, `dtype`, `size`  
+- Generating arrays with functions: `np.zeros()`, `np.ones()`, `np.arange()`, `np.linspace()`  
+- Array operations: element-wise addition, subtraction, multiplication, division  
+- Indexing and slicing arrays (1D and 2D)  
+- Boolean indexing and masking  
+- **Broadcasting**: automatic expansion of arrays with different shapes to perform operations  
+- Aggregation functions: `sum()`, `mean()`, `max()`, `min()`, `std()`  
+- Reshaping and stacking arrays  
+- Real-world practice:  
+  - Perform statistical operations on numeric datasets  
+  - Apply broadcasting in array computations  
+  - Slice and reshape arrays for analysis  
+
+---
 ##  Direct Access to Chapters
 
 - [Chapter 01 & 02 – Basics](https://github.com/Abdulrahmanbanat/Python/tree/main/Python%20Basics)
@@ -97,3 +114,4 @@ This repository contains all Python exercises and lessons covered during the cou
 - [Chapter 05 – Loops & Functions](https://github.com/Abdulrahmanbanat/Python/tree/main/Loops%20%26%20Functions)
 - [Chapter 06 – Object-Oriented Programming](https://github.com/Abdulrahmanbanat/Python/tree/main/OOP)
 - [Chapter 07 – OS & File Handling](https://github.com/Abdulrahmanbanat/Python/tree/main/Python%20Packages%20and%20File%20Handling)
+- [Chapter 08 – NumPy Basics](https://github.com/Abdulrahmanbanat/Python/tree/main/Numpy)
