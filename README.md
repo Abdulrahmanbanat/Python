@@ -89,21 +89,43 @@ This repository contains all Python exercises and lessons covered during the cou
   - Importing: `import`, `import as`, `from ... import`
 
 ---
-### Chapter 08 – NumPy Basics
-- Introduction to NumPy and its importance for numerical computing  
-- Creating arrays using `np.array()`  
-- Array attributes: `shape`, `ndim`, `dtype`, `size`  
-- Generating arrays with functions: `np.zeros()`, `np.ones()`, `np.arange()`, `np.linspace()`  
-- Array operations: element-wise addition, subtraction, multiplication, division  
-- Indexing and slicing arrays (1D and 2D)  
-- Boolean indexing and masking  
-- **Broadcasting**: automatic expansion of arrays with different shapes to perform operations  
-- Aggregation functions: `sum()`, `mean()`, `max()`, `min()`, `std()`  
-- Reshaping and stacking arrays  
-- Real-world practice:  
-  - Perform statistical operations on numeric datasets  
-  - Apply broadcasting in array computations  
-  - Slice and reshape arrays for analysis  
+### Chapter 08 – NumPy
+
+- **Pandas Basics**  
+  - Creating DataFrames using dictionaries  
+  - Exploring data with `.head()`, `.info()`, `.describe()`, `.columns`  
+  - Reading CSV files  
+  - Column selection and filtering using conditions  
+
+- **NumPy Arrays**  
+  - Understanding vectors and matrices  
+  - Creating arrays from lists, built-in methods (`arange`, `zeros`, `ones`, etc.)  
+  - Using random generators (`rand`, `randn`, `randint`)  
+
+- **Array Shape, Size & Reshape**  
+  - Checking dimensions with `.shape` and `.size`  
+  - Reshaping arrays with `.reshape()`  
+
+- **Indexing and Selection**  
+  - Accessing elements with brackets  
+  - Slicing and boolean indexing  
+  - 2D array element access using `[row, col]`  
+
+- **Broadcasting**  
+  - Modifying ranges of data efficiently  
+  - Understanding views vs copies in slices  
+
+- **NumPy Operations**  
+  - Arithmetic operations on arrays  
+  - Handling division, exponents, and scalar ops  
+
+- **Universal Functions**  
+  - Using `sqrt`, `exp`, `log`, `max`, `min`, `cos`, etc.  
+
+- **Practice Tasks**  
+  - Generate structured arrays, identity matrices, and reshaped matrices  
+  - Perform indexing tasks and filtering  
+  - Apply statistical functions like `sum`, `std`, and axis-based calculations  
 
 ---
 ##  Direct Access to Chapters
