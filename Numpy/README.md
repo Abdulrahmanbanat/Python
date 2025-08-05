@@ -1,4 +1,4 @@
-# NumPy Basics Summary
+# NumPy
 
 This file includes summarized notes and concepts from working with **NumPy**, **Pandas**, and **Matplotlib** in Python. It also contains basic tasks and exercises for learning and practice.
 
