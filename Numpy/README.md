@@ -96,7 +96,7 @@ This file includes summarized notes and concepts from working with **NumPy**, **
 4. Use indexing to select values from matrices.  
 5. Calculate sum, mean, standard deviation of arrays.  
 6. Use boolean indexing for filtering.
-7. Assignment task:
+7. Numpy Assignment:
    - Creating arrays with built-in methods and random functions  
    - Indexing, slicing, and subsetting arrays  
    - Array copying and broadcasting  
