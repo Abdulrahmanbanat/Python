@@ -125,7 +125,9 @@ This repository contains all Python exercises and lessons covered during the cou
 - **Practice Tasks**  
   - Generate structured arrays, identity matrices, and reshaped matrices  
   - Perform indexing tasks and filtering  
-  - Apply statistical functions like `sum`, `std`, and axis-based calculations  
+  - Apply statistical functions like `sum`, `std`, and axis-based calculations
+  - Numpy Assignment: Array creation, indexing, broadcasting, copying, fancy indexing, and applying mathematical functions in NumPy.
+  
 
 ---
 ##  Direct Access to Chapters
